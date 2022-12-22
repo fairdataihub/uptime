@@ -4,6 +4,22 @@ repo: uptime
 sites:
   - name: Organization Website
     url: https://fairdataihub.org
+  - name: SODA for SPARC Documentation
+    url: https://docs.sodaforsparc.io
+  - name: FAIRshare Documentation
+    url: https://docs.fairshareapp.io
+  - name: Developer Documentation
+    url: https://dev.fairdataihub.org
+  - name: FAIRshare Authentication
+    url: https://auth.fairshareapp.io
+  - name: Upload Website
+    url: https://upload.fairdataihub.org
+  - name: SPARClink
+    url: https://sparclink.vercel.app
+  - name: Open Graph Image Generation Studio
+    url: https://og.fairdataihub.org
+  - name: Umami
+    url: https://umami.fairdataihub.org
 
 assignees:
   - megasanjay
@@ -15,7 +31,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
