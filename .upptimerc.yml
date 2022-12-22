@@ -38,6 +38,10 @@ sites:
     url: https://umami.fairdataihub.org
     assignees:
       - megasanjay
+  - name: Status Page
+    url: https://status.fairdataihub.org
+    assignees:
+      - megasanjay
 
 status-website:
   cname: status.fairdataihub.org
