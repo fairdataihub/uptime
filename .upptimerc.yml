@@ -4,25 +4,40 @@ repo: uptime
 sites:
   - name: Organization Website
     url: https://fairdataihub.org
+    assignees:
+      - megasanjay
   - name: SODA for SPARC Documentation
     url: https://docs.sodaforsparc.io
+    assignees:
+      - aaronm-2112
   - name: FAIRshare Documentation
     url: https://docs.fairshareapp.io
+    assignees:
+      - megasanjay
   - name: Developer Documentation
     url: https://dev.fairdataihub.org
+    assignees:
+      - megasanjay
   - name: FAIRshare Authentication
     url: https://auth.fairshareapp.io
+    assignees:
+      - megasanjay
   - name: Upload Website
     url: https://upload.fairdataihub.org
+    assignees:
+      - megasanjay
   - name: SPARClink
     url: https://sparclink.vercel.app
+    assignees:
+      - megasanjay
   - name: Open Graph Image Generation Studio
     url: https://og.fairdataihub.org
+    assignees:
+      - megasanjay
   - name: Umami
     url: https://umami.fairdataihub.org
-
-assignees:
-  - megasanjay
+    assignees:
+      - megasanjay
 
 status-website:
   cname: status.fairdataihub.org
