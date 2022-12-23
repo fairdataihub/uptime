@@ -48,7 +48,7 @@ status-website:
 
   cname: status.fairdataihub.org
 
-  introTitle: "**Health Dashboard** for FAIR Data Innovations Hub."
+  introTitle: "**Health Dashboard** for FAIR Data Innovations Hub"
   introMessage: We continuously monitor our applications and all its services. If there are any service interruptions, scheduled maintenances or downtimes, an update will be posted here.
 
   logoUrl: https://fairdataihub.org/smalllogo.svg
