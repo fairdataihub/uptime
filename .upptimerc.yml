@@ -53,7 +53,7 @@ status-website:
 
   logoUrl: https://fairdataihub.org/smalllogo.svg
 
-  favicon: https://fairdataihub.org/favicon.png
+  favicon: https://fairdataihub.org/favicon.ico
   faviconSvg: https://fairdataihub.org/smalllogo.svg
 
   themeUrl: https://fairdataihub.org/css/custom-uptime.css
