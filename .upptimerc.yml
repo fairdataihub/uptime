@@ -44,17 +44,17 @@ sites:
       - megasanjay
 
 status-website:
-  name: ""
+  name: "Uptime Status"
 
   cname: status.fairdataihub.org
 
   introTitle: "**Health Dashboard** for FAIR Data Innovations Hub applications."
   introMessage: This is a status page which uses **real-time** data from our [Github repository](https://github.com/fairdataihub/uptime) to communicate incidents, scheduled maintenances and downtimes.
 
-  logoUrl: https://fairdataihub.org/logo.svg
+  # logoUrl: https://fairdataihub.org/logo.svg
 
   favicon: https://fairdataihub.org/favicon.png
-  faviconSvg: https://fairdataihub.org/logo.svg
+  # faviconSvg: https://fairdataihub.org/logo.svg
 
   themeUrl: https://raw.githubusercontent.com/fairdataihub/uptime/master/assets/custom.css
 
