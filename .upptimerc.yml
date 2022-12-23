@@ -56,7 +56,7 @@ status-website:
   favicon: https://fairdataihub.org/favicon.png
   faviconSvg: https://fairdataihub.org/logo.svg
 
-  # themeUrl: https://raw.githubusercontent.com/fairdataihub/uptime/master/assets/custom.css
+  themeUrl: https://fairdataihub.org/css/custom-uptime.css
 
   metaTags:
     - name: "robots"
