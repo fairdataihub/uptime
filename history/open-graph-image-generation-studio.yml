@@ -1,7 +1,7 @@
 url: https://og.fairdataihub.org
-status: up
-code: 200
-responseTime: 170
-lastUpdated: 2022-12-29T23:16:22.356Z
+status: down
+code: 502
+responseTime: 262
+lastUpdated: 2022-12-30T15:29:19.775Z
 startTime: Thu Dec 22 2022 23:31:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
