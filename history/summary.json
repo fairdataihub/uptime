@@ -130,19 +130,19 @@
     "url": "https://og.fairdataihub.org",
     "icon": "https://icons.duckduckgo.com/ip3/og.fairdataihub.org.ico",
     "slug": "open-graph-image-generation-studio",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 216,
-    "timeWeek": 165,
-    "timeMonth": 258,
-    "timeYear": 258,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 250,
+    "timeDay": 169,
+    "timeWeek": 155,
+    "timeMonth": 250,
+    "timeYear": 250,
     "dailyMinutesDown": {
-      "2022-12-30": 0
+      "2022-12-30": 7
     }
   },
   {
