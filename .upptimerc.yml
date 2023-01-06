@@ -38,7 +38,7 @@ sites:
     url: https://umami.fairdataihub.org
     assignees:
       - megasanjay
-  - name: Alt Text Generator
+  - name: Alt Text Generator for Images
     url: https://alt.fairdataihub.org
     assignees:
       - megasanjay
