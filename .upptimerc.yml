@@ -46,6 +46,10 @@ sites:
     url: https://status.fairdataihub.org
     assignees:
       - megasanjay
+      
+commitMessages:
+  commitAuthorName: "fairdataihub-bot"
+  commitAuthorEmail: "fairdataihub@gmail.com"
 
 status-website:
   name: "System Status"
