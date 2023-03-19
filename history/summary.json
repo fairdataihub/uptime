@@ -152,19 +152,19 @@
     "url": "https://umami.fairdataihub.org",
     "icon": "https://icons.duckduckgo.com/ip3/umami.fairdataihub.org.ico",
     "slug": "umami",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 334,
-    "timeDay": 256,
-    "timeWeek": 197,
-    "timeMonth": 285,
-    "timeYear": 334,
+    "time": 349,
+    "timeDay": 1055,
+    "timeWeek": 404,
+    "timeMonth": 339,
+    "timeYear": 349,
     "dailyMinutesDown": {
-      "2023-03-19": 0
+      "2023-03-19": 5
     }
   },
   {
