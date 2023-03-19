@@ -152,9 +152,9 @@
     "url": "https://umami.fairdataihub.org",
     "icon": "https://icons.duckduckgo.com/ip3/umami.fairdataihub.org.ico",
     "slug": "umami",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -163,7 +163,9 @@
     "timeWeek": 197,
     "timeMonth": 285,
     "timeYear": 334,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-19": 0
+    }
   },
   {
     "name": "Alt Text Generator for Images",
