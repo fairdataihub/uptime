@@ -18,6 +18,10 @@ sites:
     url: https://dev.fairdataihub.org
     assignees:
       - megasanjay
+  - name: AI-READI Website
+    url: https://aireadi.org
+    assignees:
+      - megasanjay
   - name: FAIRshare Authentication
     url: https://auth.fairshareapp.io
     assignees:
