@@ -4,10 +4,10 @@
     "url": "https://fairdataihub.org",
     "icon": "https://icons.duckduckgo.com/ip3/fairdataihub.org.ico",
     "slug": "organization-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
@@ -15,7 +15,9 @@
     "timeWeek": 132,
     "timeMonth": 171,
     "timeYear": 205,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-03": 1
+    }
   },
   {
     "name": "SODA for SPARC Documentation",
