@@ -157,9 +157,9 @@
     "url": "https://og.fairdataihub.org",
     "icon": "https://icons.duckduckgo.com/ip3/og.fairdataihub.org.ico",
     "slug": "open-graph-image-generation-studio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -169,6 +169,7 @@
     "timeMonth": 160,
     "timeYear": 189,
     "dailyMinutesDown": {
+      "2023-10-30": 0,
       "2022-12-30": 7
     }
   },
