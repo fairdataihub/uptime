@@ -35,7 +35,7 @@ sites:
     assignees:
       - megasanjay
   - name: Open Graph Image Generation Studio
-    url: https://og.fairdataihub.org
+    url: https://kalai.fairdataihub.org
     assignees:
       - megasanjay
   - name: Umami
