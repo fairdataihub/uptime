@@ -1,7 +1,7 @@
 url: https://upload.fairdataihub.org
-status: up
-code: 200
-responseTime: 151
-lastUpdated: 2024-01-16T23:14:46.925Z
+status: down
+code: 500
+responseTime: 2293
+lastUpdated: 2024-01-17T21:42:48.302Z
 startTime: 2022-12-22T23:30:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
