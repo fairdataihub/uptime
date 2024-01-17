@@ -1,7 +1,7 @@
 url: https://auth.fairshareapp.io
-status: down
-code: 500
-responseTime: 2201
-lastUpdated: 2024-01-17T21:42:43.811Z
+status: up
+code: 200
+responseTime: 98
+lastUpdated: 2024-01-17T22:09:16.240Z
 startTime: 2022-12-22T23:30:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
