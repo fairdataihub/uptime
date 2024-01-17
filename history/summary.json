@@ -6,9 +6,9 @@
     "slug": "organization-website",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 202,
     "timeDay": 162,
@@ -16,7 +16,7 @@
     "timeMonth": 168,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2024-01-17": 2,
+      "2024-01-17": 8,
       "2023-10-03": 6
     }
   },
@@ -26,10 +26,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.sodaforsparc.io.ico",
     "slug": "soda-for-sparc-documentation",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.94%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.94%",
     "time": 148,
     "timeDay": 181,
@@ -37,7 +37,7 @@
     "timeMonth": 156,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2024-01-17": 2,
+      "2024-01-17": 8,
       "2023-03-24": 160,
       "2023-03-23": 144
     }
@@ -47,18 +47,20 @@
     "url": "https://docs.fairshareapp.io",
     "icon": "https://icons.duckduckgo.com/ip3/docs.fairshareapp.io.ico",
     "slug": "fai-rshare-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 184,
-    "timeDay": 212,
-    "timeWeek": 163,
-    "timeMonth": 158,
-    "timeYear": 185,
-    "dailyMinutesDown": {}
+    "time": 186,
+    "timeDay": 679,
+    "timeWeek": 286,
+    "timeMonth": 189,
+    "timeYear": 188,
+    "dailyMinutesDown": {
+      "2024-01-17": 2
+    }
   },
   {
     "name": "Developer Documentation",
@@ -67,9 +69,9 @@
     "slug": "developer-documentation",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 209,
     "timeDay": 763,
@@ -77,7 +79,7 @@
     "timeMonth": 205,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2024-01-17": 9
+      "2024-01-17": 15
     }
   },
   {
@@ -87,9 +89,9 @@
     "slug": "ai-readi-website",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 232,
     "timeDay": 195,
@@ -97,7 +99,7 @@
     "timeMonth": 187,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2024-01-17": 9
+      "2024-01-17": 15
     }
   },
   {
@@ -107,9 +109,9 @@
     "slug": "fai-rshare-authentication",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 190,
     "timeDay": 1204,
@@ -117,7 +119,7 @@
     "timeMonth": 233,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2024-01-17": 8
+      "2024-01-17": 15
     }
   },
   {
@@ -125,19 +127,19 @@
     "url": "https://upload.fairdataihub.org",
     "icon": "https://icons.duckduckgo.com/ip3/upload.fairdataihub.org.ico",
     "slug": "upload-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 931,
-    "timeWeek": 437,
-    "timeMonth": 233,
+    "timeDay": 754,
+    "timeWeek": 415,
+    "timeMonth": 232,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2024-01-17": 7
+      "2024-01-17": 9
     }
   },
   {
@@ -147,9 +149,9 @@
     "slug": "spar-clink",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 118,
     "timeDay": 225,
@@ -157,7 +159,7 @@
     "timeMonth": 111,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2024-01-17": 8,
+      "2024-01-17": 15,
       "2023-09-28": 6
     }
   },
@@ -166,19 +168,19 @@
     "url": "https://kalai.fairdataihub.org",
     "icon": "https://icons.duckduckgo.com/ip3/kalai.fairdataihub.org.ico",
     "slug": "open-graph-image-generation-studio",
-    "status": "down",
+    "status": "up",
     "uptime": "97.24%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "97.05%",
     "time": 185,
-    "timeDay": 144,
-    "timeWeek": 149,
-    "timeMonth": 138,
+    "timeDay": 171,
+    "timeWeek": 157,
+    "timeMonth": 141,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2024-01-17": 8,
+      "2024-01-17": 13,
       "2023-11-09": 1200,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
@@ -199,9 +201,9 @@
     "slug": "umami",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 234,
     "timeDay": 288,
@@ -209,7 +211,7 @@
     "timeMonth": 215,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-01-17": 8,
+      "2024-01-17": 15,
       "2023-03-19": 5
     }
   },
@@ -220,9 +222,9 @@
     "slug": "alt-text-generator-for-images",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 175,
     "timeDay": 743,
@@ -230,7 +232,7 @@
     "timeMonth": 182,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2024-01-17": 8
+      "2024-01-17": 15
     }
   },
   {
@@ -242,7 +244,7 @@
     "uptime": "92.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "7.82%",
+    "uptimeMonth": "7.81%",
     "uptimeYear": "91.87%",
     "time": 223,
     "timeDay": 0,
@@ -250,7 +252,7 @@
     "timeMonth": 274,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2024-01-17": 1311,
+      "2024-01-17": 1318,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
