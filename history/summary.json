@@ -4,18 +4,19 @@
     "url": "https://fairdataihub.org",
     "icon": "https://icons.duckduckgo.com/ip3/fairdataihub.org.ico",
     "slug": "organization-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 69,
-    "timeWeek": 157,
-    "timeMonth": 166,
+    "timeDay": 162,
+    "timeWeek": 170,
+    "timeMonth": 168,
     "timeYear": 199,
     "dailyMinutesDown": {
+      "2024-01-17": 2,
       "2023-10-03": 6
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://docs.sodaforsparc.io",
     "icon": "https://icons.duckduckgo.com/ip3/docs.sodaforsparc.io.ico",
     "slug": "soda-for-sparc-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 148,
-    "timeDay": 197,
-    "timeWeek": 157,
+    "timeDay": 181,
+    "timeWeek": 158,
     "timeMonth": 156,
     "timeYear": 148,
     "dailyMinutesDown": {
+      "2024-01-17": 2,
       "2023-03-24": 160,
       "2023-03-23": 144
     }
@@ -65,9 +67,9 @@
     "slug": "developer-documentation",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 209,
     "timeDay": 763,
@@ -75,7 +77,7 @@
     "timeMonth": 205,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2024-01-17": 2
+      "2024-01-17": 9
     }
   },
   {
@@ -85,9 +87,9 @@
     "slug": "ai-readi-website",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 232,
     "timeDay": 195,
@@ -95,7 +97,7 @@
     "timeMonth": 187,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2024-01-17": 2
+      "2024-01-17": 9
     }
   },
   {
@@ -105,9 +107,9 @@
     "slug": "fai-rshare-authentication",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 190,
     "timeDay": 1204,
@@ -115,7 +117,7 @@
     "timeMonth": 233,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2024-01-17": 2
+      "2024-01-17": 8
     }
   },
   {
@@ -123,19 +125,19 @@
     "url": "https://upload.fairdataihub.org",
     "icon": "https://icons.duckduckgo.com/ip3/upload.fairdataihub.org.ico",
     "slug": "upload-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 1222,
-    "timeWeek": 448,
-    "timeMonth": 229,
+    "timeDay": 931,
+    "timeWeek": 437,
+    "timeMonth": 233,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2024-01-17": 2
+      "2024-01-17": 7
     }
   },
   {
@@ -145,9 +147,9 @@
     "slug": "spar-clink",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 118,
     "timeDay": 225,
@@ -155,7 +157,7 @@
     "timeMonth": 111,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2024-01-17": 2,
+      "2024-01-17": 8,
       "2023-09-28": 6
     }
   },
@@ -166,9 +168,9 @@
     "slug": "open-graph-image-generation-studio",
     "status": "down",
     "uptime": "97.24%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "97.05%",
     "time": 185,
     "timeDay": 144,
@@ -176,7 +178,7 @@
     "timeMonth": 138,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2024-01-17": 2,
+      "2024-01-17": 8,
       "2023-11-09": 1200,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
@@ -197,9 +199,9 @@
     "slug": "umami",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 234,
     "timeDay": 288,
@@ -207,7 +209,7 @@
     "timeMonth": 215,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-01-17": 2,
+      "2024-01-17": 8,
       "2023-03-19": 5
     }
   },
@@ -218,9 +220,9 @@
     "slug": "alt-text-generator-for-images",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 175,
     "timeDay": 743,
@@ -228,7 +230,7 @@
     "timeMonth": 182,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2024-01-17": 2
+      "2024-01-17": 8
     }
   },
   {
@@ -240,15 +242,15 @@
     "uptime": "92.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "7.84%",
-    "uptimeYear": "91.88%",
+    "uptimeMonth": "7.82%",
+    "uptimeYear": "91.87%",
     "time": 223,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 274,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2024-01-17": 1305,
+      "2024-01-17": 1311,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
