@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 169,
-    "timeWeek": 204,
-    "timeMonth": 218,
+    "timeDay": 338,
+    "timeWeek": 222,
+    "timeMonth": 223,
     "timeYear": 204,
     "dailyMinutesDown": {
       "2024-01-17": 20,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 151,
-    "timeDay": 240,
-    "timeWeek": 213,
-    "timeMonth": 173,
+    "timeDay": 254,
+    "timeWeek": 226,
+    "timeMonth": 180,
     "timeYear": 152,
     "dailyMinutesDown": {
       "2024-01-17": 20
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 185,
-    "timeDay": 239,
-    "timeWeek": 190,
-    "timeMonth": 204,
-    "timeYear": 191,
+    "time": 187,
+    "timeDay": 1041,
+    "timeWeek": 323,
+    "timeMonth": 231,
+    "timeYear": 193,
     "dailyMinutesDown": {
       "2024-01-17": 13
     }
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 216,
-    "timeDay": 168,
-    "timeWeek": 219,
-    "timeMonth": 367,
+    "timeDay": 248,
+    "timeWeek": 229,
+    "timeMonth": 368,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2024-01-17": 27
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 225,
-    "timeDay": 70,
-    "timeWeek": 195,
-    "timeMonth": 231,
-    "timeYear": 225,
+    "time": 226,
+    "timeDay": 329,
+    "timeWeek": 199,
+    "timeMonth": 235,
+    "timeYear": 226,
     "dailyMinutesDown": {
       "2024-01-17": 27
     }
@@ -112,9 +112,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 190,
-    "timeDay": 223,
-    "timeWeek": 167,
-    "timeMonth": 204,
+    "timeDay": 262,
+    "timeWeek": 190,
+    "timeMonth": 207,
     "timeYear": 195,
     "dailyMinutesDown": {
       "2024-01-17": 27
@@ -132,10 +132,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 329,
-    "timeWeek": 195,
-    "timeMonth": 206,
-    "timeYear": 202,
+    "timeDay": 322,
+    "timeWeek": 216,
+    "timeMonth": 212,
+    "timeYear": 203,
     "dailyMinutesDown": {
       "2024-01-17": 20
     }
@@ -152,9 +152,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 118,
-    "timeDay": 54,
-    "timeWeek": 88,
-    "timeMonth": 152,
+    "timeDay": 136,
+    "timeWeek": 84,
+    "timeMonth": 150,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2024-01-17": 27,
@@ -173,8 +173,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.05%",
     "time": 182,
-    "timeDay": 219,
-    "timeWeek": 159,
+    "timeDay": 151,
+    "timeWeek": 169,
     "timeMonth": 186,
     "timeYear": 176,
     "dailyMinutesDown": {
@@ -203,10 +203,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 232,
-    "timeDay": 67,
-    "timeWeek": 158,
-    "timeMonth": 184,
+    "time": 233,
+    "timeDay": 445,
+    "timeWeek": 189,
+    "timeMonth": 194,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2024-01-17": 27
@@ -223,10 +223,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 171,
-    "timeDay": 112,
-    "timeWeek": 144,
-    "timeMonth": 144,
+    "time": 170,
+    "timeDay": 153,
+    "timeWeek": 141,
+    "timeMonth": 147,
     "timeYear": 158,
     "dailyMinutesDown": {
       "2024-01-17": 27
@@ -238,15 +238,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.fairdataihub.org.ico",
     "slug": "status-page",
     "status": "up",
-    "uptime": "87.86%",
+    "uptime": "87.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "84.50%",
     "time": 233,
-    "timeDay": 433,
-    "timeWeek": 322,
-    "timeMonth": 291,
+    "timeDay": 259,
+    "timeWeek": 287,
+    "timeMonth": 296,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2024-02-18": 19,
