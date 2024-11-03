@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 249,
-    "timeWeek": 223,
-    "timeMonth": 210,
-    "timeYear": 213,
+    "timeDay": 238,
+    "timeWeek": 222,
+    "timeMonth": 208,
+    "timeYear": 212,
     "dailyMinutesDown": {
       "2024-08-01": 6,
       "2024-01-17": 20
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 173,
-    "timeDay": 205,
-    "timeWeek": 226,
-    "timeMonth": 199,
+    "timeDay": 249,
+    "timeWeek": 234,
+    "timeMonth": 201,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2024-01-17": 20
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 199,
-    "timeDay": 370,
-    "timeWeek": 229,
-    "timeMonth": 238,
+    "timeDay": 312,
+    "timeWeek": 244,
+    "timeMonth": 241,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2024-01-17": 13
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 220,
-    "timeDay": 270,
-    "timeWeek": 219,
-    "timeMonth": 204,
+    "timeDay": 258,
+    "timeWeek": 230,
+    "timeMonth": 207,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2024-01-17": 27
@@ -92,10 +92,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 220,
-    "timeDay": 238,
-    "timeWeek": 223,
-    "timeMonth": 200,
-    "timeYear": 216,
+    "timeDay": 242,
+    "timeWeek": 222,
+    "timeMonth": 202,
+    "timeYear": 217,
     "dailyMinutesDown": {
       "2024-08-01": 14,
       "2024-01-17": 27
@@ -113,10 +113,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 236,
-    "timeDay": 217,
-    "timeWeek": 206,
+    "timeDay": 239,
+    "timeWeek": 203,
     "timeMonth": 360,
-    "timeYear": 260,
+    "timeYear": 261,
     "dailyMinutesDown": {
       "2024-01-17": 27
     }
@@ -133,10 +133,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 224,
-    "timeDay": 259,
-    "timeWeek": 223,
-    "timeMonth": 193,
-    "timeYear": 236,
+    "timeDay": 224,
+    "timeWeek": 216,
+    "timeMonth": 192,
+    "timeYear": 237,
     "dailyMinutesDown": {
       "2024-01-17": 20
     }
@@ -153,9 +153,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 113,
-    "timeDay": 182,
-    "timeWeek": 145,
-    "timeMonth": 116,
+    "timeDay": 253,
+    "timeWeek": 136,
+    "timeMonth": 120,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2024-01-17": 27
@@ -167,15 +167,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/kalai.fairdataihub.org.ico",
     "slug": "open-graph-image-generation-studio",
     "status": "up",
-    "uptime": "98.41%",
+    "uptime": "98.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.86%",
+    "uptimeYear": "98.14%",
     "time": 193,
-    "timeDay": 265,
-    "timeWeek": 237,
-    "timeMonth": 217,
+    "timeDay": 259,
+    "timeWeek": 235,
+    "timeMonth": 216,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2024-01-17": 13,
@@ -183,8 +183,7 @@
       "2023-11-08": 1440,
       "2023-11-07": 1440,
       "2023-11-06": 1440,
-      "2023-11-05": 1440,
-      "2023-11-04": 1440
+      "2023-11-05": 1440
     }
   },
   {
@@ -199,9 +198,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 196,
-    "timeDay": 243,
-    "timeWeek": 243,
-    "timeMonth": 186,
+    "timeDay": 238,
+    "timeWeek": 239,
+    "timeMonth": 189,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2024-01-17": 27
@@ -219,10 +218,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 167,
-    "timeDay": 239,
-    "timeWeek": 199,
-    "timeMonth": 181,
-    "timeYear": 165,
+    "timeDay": 227,
+    "timeWeek": 197,
+    "timeMonth": 183,
+    "timeYear": 166,
     "dailyMinutesDown": {
       "2024-01-17": 27
     }
@@ -233,18 +232,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.fairdataihub.org.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "69.64%",
+    "uptime": "69.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "43.45%",
+    "uptimeYear": "43.17%",
     "time": 465,
-    "timeDay": 237,
-    "timeWeek": 286,
-    "timeMonth": 245,
-    "timeYear": 550,
+    "timeDay": 380,
+    "timeWeek": 287,
+    "timeMonth": 254,
+    "timeYear": 551,
     "dailyMinutesDown": {
-      "2024-11-02": 59,
+      "2024-11-03": 64,
+      "2024-11-02": 1440,
       "2024-11-01": 1440,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
