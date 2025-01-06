@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 268,
-    "timeWeek": 226,
-    "timeMonth": 214,
+    "timeDay": 165,
+    "timeWeek": 225,
+    "timeMonth": 216,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2024-08-01": 6,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 181,
-    "timeDay": 251,
+    "timeDay": 167,
     "timeWeek": 214,
-    "timeMonth": 213,
+    "timeMonth": 212,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2024-11-21": 17,
@@ -53,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 218,
-    "timeWeek": 187,
-    "timeMonth": 214,
-    "timeYear": 218,
+    "timeDay": 220,
+    "timeWeek": 191,
+    "timeMonth": 212,
+    "timeYear": 219,
     "dailyMinutesDown": {
       "2024-01-17": 13
     }
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 223,
-    "timeDay": 91,
-    "timeWeek": 217,
-    "timeMonth": 236,
+    "timeDay": 167,
+    "timeWeek": 216,
+    "timeMonth": 233,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2024-01-17": 27
@@ -93,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 218,
-    "timeDay": 256,
-    "timeWeek": 197,
-    "timeMonth": 215,
+    "timeDay": 162,
+    "timeWeek": 194,
+    "timeMonth": 217,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2024-08-01": 14,
@@ -114,9 +114,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 245,
-    "timeDay": 133,
-    "timeWeek": 249,
-    "timeMonth": 232,
+    "timeDay": 141,
+    "timeWeek": 233,
+    "timeMonth": 229,
     "timeYear": 259,
     "dailyMinutesDown": {
       "2024-01-17": 27
@@ -134,10 +134,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 225,
-    "timeDay": 89,
-    "timeWeek": 185,
+    "timeDay": 155,
+    "timeWeek": 165,
     "timeMonth": 191,
-    "timeYear": 233,
+    "timeYear": 232,
     "dailyMinutesDown": {
       "2024-01-17": 20
     }
@@ -154,9 +154,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 116,
-    "timeDay": 64,
+    "timeDay": 49,
     "timeWeek": 76,
-    "timeMonth": 99,
+    "timeMonth": 98,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2024-01-17": 27
@@ -174,9 +174,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
-    "timeDay": 77,
-    "timeWeek": 190,
-    "timeMonth": 169,
+    "timeDay": 61,
+    "timeWeek": 166,
+    "timeMonth": 167,
     "timeYear": 199,
     "dailyMinutesDown": {
       "2024-01-17": 13
@@ -194,9 +194,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 196,
-    "timeDay": 194,
-    "timeWeek": 167,
-    "timeMonth": 171,
+    "timeDay": 60,
+    "timeWeek": 150,
+    "timeMonth": 170,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2024-01-17": 27
@@ -214,9 +214,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 166,
-    "timeDay": 72,
-    "timeWeek": 140,
-    "timeMonth": 168,
+    "timeDay": 62,
+    "timeWeek": 124,
+    "timeMonth": 167,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2024-01-17": 27
@@ -228,7 +228,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.fairdataihub.org.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "63.65%",
+    "uptime": "63.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -236,10 +236,11 @@
     "time": 552,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 345,
+    "timeMonth": 346,
     "timeYear": 648,
     "dailyMinutesDown": {
-      "2025-01-05": 65,
+      "2025-01-06": 63,
+      "2025-01-05": 1440,
       "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
@@ -497,8 +498,7 @@
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
-      "2024-01-08": 1440,
-      "2024-01-07": 1440
+      "2024-01-08": 1440
     }
   }
 ]
