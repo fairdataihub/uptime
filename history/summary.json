@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 217,
-    "timeWeek": 263,
-    "timeMonth": 232,
+    "timeDay": 218,
+    "timeWeek": 254,
+    "timeMonth": 230,
     "timeYear": 220,
     "dailyMinutesDown": {
       "2024-08-01": 6,
@@ -31,9 +31,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 181,
-    "timeDay": 178,
-    "timeWeek": 204,
+    "time": 182,
+    "timeDay": 218,
+    "timeWeek": 196,
     "timeMonth": 215,
     "timeYear": 191,
     "dailyMinutesDown": {
@@ -53,8 +53,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 80,
-    "timeWeek": 202,
+    "timeDay": 273,
+    "timeWeek": 196,
     "timeMonth": 216,
     "timeYear": 220,
     "dailyMinutesDown": {
@@ -73,8 +73,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 223,
-    "timeDay": 212,
-    "timeWeek": 254,
+    "timeDay": 251,
+    "timeWeek": 259,
     "timeMonth": 233,
     "timeYear": 241,
     "dailyMinutesDown": {
@@ -93,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 218,
-    "timeDay": 186,
-    "timeWeek": 205,
-    "timeMonth": 213,
+    "timeDay": 219,
+    "timeWeek": 202,
+    "timeMonth": 212,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2024-08-01": 14,
@@ -114,9 +114,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 246,
-    "timeDay": 250,
-    "timeWeek": 224,
-    "timeMonth": 239,
+    "timeDay": 234,
+    "timeWeek": 207,
+    "timeMonth": 241,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2024-01-17": 27
@@ -134,9 +134,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 225,
-    "timeDay": 220,
-    "timeWeek": 202,
-    "timeMonth": 199,
+    "timeDay": 214,
+    "timeWeek": 217,
+    "timeMonth": 198,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2024-01-17": 20
@@ -153,10 +153,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 117,
-    "timeDay": 72,
-    "timeWeek": 127,
-    "timeMonth": 105,
+    "time": 116,
+    "timeDay": 50,
+    "timeWeek": 118,
+    "timeMonth": 104,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2024-01-17": 27
@@ -173,10 +173,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 191,
-    "timeDay": 212,
-    "timeWeek": 179,
-    "timeMonth": 173,
+    "time": 190,
+    "timeDay": 165,
+    "timeWeek": 165,
+    "timeMonth": 176,
     "timeYear": 200,
     "dailyMinutesDown": {
       "2024-01-17": 13
@@ -194,9 +194,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 195,
-    "timeDay": 71,
-    "timeWeek": 178,
-    "timeMonth": 171,
+    "timeDay": 170,
+    "timeWeek": 184,
+    "timeMonth": 168,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2024-01-17": 27
@@ -214,9 +214,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 166,
-    "timeDay": 219,
-    "timeWeek": 199,
-    "timeMonth": 175,
+    "timeDay": 175,
+    "timeWeek": 208,
+    "timeMonth": 178,
     "timeYear": 176,
     "dailyMinutesDown": {
       "2024-01-17": 27
@@ -228,15 +228,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.fairdataihub.org.ico",
     "slug": "status-page",
     "status": "up",
-    "uptime": "62.89%",
-    "uptimeDay": "0.89%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "30.51%",
+    "uptime": "62.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "14.42%",
+    "uptimeMonth": "1.41%",
+    "uptimeYear": "30.78%",
     "time": 561,
-    "timeDay": 387,
-    "timeWeek": 387,
-    "timeMonth": 387,
+    "timeDay": 557,
+    "timeWeek": 472,
+    "timeMonth": 472,
     "timeYear": 647,
     "dailyMinutesDown": {
       "2025-01-14": 45,
@@ -497,8 +497,7 @@
       "2024-01-20": 1440,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
-      "2024-01-17": 1440,
-      "2024-01-16": 1440
+      "2024-01-17": 1440
     }
   }
 ]
