@@ -10,14 +10,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 218,
-    "timeWeek": 254,
-    "timeMonth": 230,
-    "timeYear": 220,
+    "time": 211,
+    "timeDay": 122,
+    "timeWeek": 242,
+    "timeMonth": 227,
+    "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-08-01": 6,
-      "2024-01-17": 20
+      "2024-08-01": 6
     }
   },
   {
@@ -31,14 +30,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 182,
-    "timeDay": 218,
-    "timeWeek": 196,
-    "timeMonth": 215,
+    "time": 181,
+    "timeDay": 178,
+    "timeWeek": 208,
+    "timeMonth": 213,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2024-11-21": 17,
-      "2024-01-17": 20
+      "2024-11-21": 17
     }
   },
   {
@@ -53,13 +51,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 273,
-    "timeWeek": 196,
-    "timeMonth": 216,
+    "timeDay": 132,
+    "timeWeek": 200,
+    "timeMonth": 210,
     "timeYear": 220,
-    "dailyMinutesDown": {
-      "2024-01-17": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Developer Documentation",
@@ -73,13 +69,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 223,
-    "timeDay": 251,
-    "timeWeek": 259,
-    "timeMonth": 233,
+    "timeDay": 270,
+    "timeWeek": 277,
+    "timeMonth": 234,
     "timeYear": 241,
-    "dailyMinutesDown": {
-      "2024-01-17": 27
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AI-READI Website",
@@ -93,13 +87,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 218,
-    "timeDay": 219,
-    "timeWeek": 202,
-    "timeMonth": 212,
+    "timeDay": 257,
+    "timeWeek": 210,
+    "timeMonth": 213,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2024-08-01": 14,
-      "2024-01-17": 27
+      "2024-08-01": 14
     }
   },
   {
@@ -114,13 +107,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 246,
-    "timeDay": 234,
-    "timeWeek": 207,
-    "timeMonth": 241,
+    "timeDay": 185,
+    "timeWeek": 221,
+    "timeMonth": 239,
     "timeYear": 260,
-    "dailyMinutesDown": {
-      "2024-01-17": 27
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Upload Website",
@@ -133,14 +124,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 214,
+    "time": 226,
+    "timeDay": 239,
     "timeWeek": 217,
-    "timeMonth": 198,
+    "timeMonth": 200,
     "timeYear": 233,
-    "dailyMinutesDown": {
-      "2024-01-17": 20
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SPARClink",
@@ -153,14 +142,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 116,
-    "timeDay": 50,
-    "timeWeek": 118,
-    "timeMonth": 104,
+    "time": 117,
+    "timeDay": 122,
+    "timeWeek": 124,
+    "timeMonth": 105,
     "timeYear": 120,
-    "dailyMinutesDown": {
-      "2024-01-17": 27
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Open Graph Image Generation Studio",
@@ -174,13 +161,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 190,
-    "timeDay": 165,
-    "timeWeek": 165,
-    "timeMonth": 176,
+    "timeDay": 119,
+    "timeWeek": 166,
+    "timeMonth": 173,
     "timeYear": 200,
-    "dailyMinutesDown": {
-      "2024-01-17": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Umami",
@@ -194,13 +179,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 195,
-    "timeDay": 170,
-    "timeWeek": 184,
-    "timeMonth": 168,
-    "timeYear": 207,
-    "dailyMinutesDown": {
-      "2024-01-17": 27
-    }
+    "timeDay": 147,
+    "timeWeek": 173,
+    "timeMonth": 165,
+    "timeYear": 206,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Alt Text Generator for Images",
@@ -214,13 +197,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 166,
-    "timeDay": 175,
-    "timeWeek": 208,
-    "timeMonth": 178,
+    "timeDay": 133,
+    "timeWeek": 190,
+    "timeMonth": 176,
     "timeYear": 176,
-    "dailyMinutesDown": {
-      "2024-01-17": 27
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Status Page",
@@ -228,16 +209,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.fairdataihub.org.ico",
     "slug": "status-page",
     "status": "up",
-    "uptime": "62.94%",
+    "uptime": "62.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "14.42%",
-    "uptimeMonth": "1.41%",
-    "uptimeYear": "30.78%",
-    "time": 561,
-    "timeDay": 557,
-    "timeWeek": 472,
-    "timeMonth": 472,
-    "timeYear": 647,
+    "uptimeWeek": "28.71%",
+    "uptimeMonth": "4.70%",
+    "uptimeYear": "31.05%",
+    "time": 560,
+    "timeDay": 180,
+    "timeWeek": 375,
+    "timeMonth": 375,
+    "timeYear": 645,
     "dailyMinutesDown": {
       "2025-01-14": 45,
       "2025-01-13": 1440,
@@ -496,8 +477,7 @@
       "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
-      "2024-01-18": 1440,
-      "2024-01-17": 1440
+      "2024-01-18": 1440
     }
   }
 ]
