@@ -44,18 +44,20 @@
     "url": "https://docs.fairshareapp.io",
     "icon": "https://icons.duckduckgo.com/ip3/docs.fairshareapp.io.ico",
     "slug": "fai-rshare-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
+    "time": 209,
     "timeDay": 182,
     "timeWeek": 202,
     "timeMonth": 210,
     "timeYear": 221,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 1
+    }
   },
   {
     "name": "Developer Documentation",
@@ -100,9 +102,9 @@
     "url": "https://auth.fairshareapp.io",
     "icon": "https://icons.duckduckgo.com/ip3/auth.fairshareapp.io.ico",
     "slug": "fai-rshare-authentication",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -111,7 +113,9 @@
     "timeWeek": 217,
     "timeMonth": 231,
     "timeYear": 257,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 0
+    }
   },
   {
     "name": "Upload Website",
@@ -209,11 +213,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.fairdataihub.org.ico",
     "slug": "status-page",
     "status": "up",
-    "uptime": "63.29%",
+    "uptime": "63.30%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "75.10%",
-    "uptimeMonth": "39.35%",
-    "uptimeYear": "33.94%",
+    "uptimeWeek": "78.10%",
+    "uptimeMonth": "40.04%",
+    "uptimeYear": "34.00%",
     "time": 571,
     "timeDay": 561,
     "timeWeek": 448,
