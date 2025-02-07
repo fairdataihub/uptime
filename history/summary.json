@@ -213,11 +213,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.fairdataihub.org.ico",
     "slug": "status-page",
     "status": "up",
-    "uptime": "62.91%",
-    "uptimeDay": "0.02%",
+    "uptime": "62.92%",
+    "uptimeDay": "4.25%",
     "uptimeWeek": "10.86%",
-    "uptimeMonth": "48.29%",
-    "uptimeYear": "34.69%",
+    "uptimeMonth": "48.43%",
+    "uptimeYear": "34.70%",
     "time": 574,
     "timeDay": 319,
     "timeWeek": 315,
@@ -469,8 +469,7 @@
       "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
-      "2024-02-09": 1440,
-      "2024-02-08": 1440
+      "2024-02-09": 1440
     }
   }
 ]
