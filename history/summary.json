@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 223,
-    "timeWeek": 184,
-    "timeMonth": 168,
+    "timeDay": 250,
+    "timeWeek": 196,
+    "timeMonth": 167,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2024-08-01": 6
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 61,
-    "timeWeek": 195,
+    "timeDay": 250,
+    "timeWeek": 207,
     "timeMonth": 152,
     "timeYear": 195,
     "dailyMinutesDown": {
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 152,
-    "timeWeek": 239,
-    "timeMonth": 219,
+    "timeDay": 262,
+    "timeWeek": 242,
+    "timeMonth": 221,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2025-01-29": 24
@@ -71,8 +71,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 229,
-    "timeDay": 227,
-    "timeWeek": 234,
+    "timeDay": 257,
+    "timeWeek": 246,
     "timeMonth": 181,
     "timeYear": 226,
     "dailyMinutesDown": {}
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 224,
-    "timeWeek": 236,
-    "timeMonth": 180,
+    "timeDay": 256,
+    "timeWeek": 249,
+    "timeMonth": 181,
     "timeYear": 228,
     "dailyMinutesDown": {
       "2024-08-01": 14
@@ -109,10 +109,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 248,
-    "timeDay": 275,
-    "timeWeek": 243,
-    "timeMonth": 211,
-    "timeYear": 264,
+    "timeDay": 293,
+    "timeWeek": 255,
+    "timeMonth": 217,
+    "timeYear": 265,
     "dailyMinutesDown": {
       "2025-01-29": 23
     }
@@ -129,9 +129,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 237,
-    "timeWeek": 205,
-    "timeMonth": 171,
+    "timeDay": 155,
+    "timeWeek": 203,
+    "timeMonth": 168,
     "timeYear": 216,
     "dailyMinutesDown": {}
   },
@@ -147,9 +147,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 118,
-    "timeDay": 118,
-    "timeWeek": 112,
-    "timeMonth": 120,
+    "timeDay": 128,
+    "timeWeek": 120,
+    "timeMonth": 122,
     "timeYear": 118,
     "dailyMinutesDown": {}
   },
@@ -165,9 +165,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 200,
-    "timeDay": 252,
-    "timeWeek": 175,
-    "timeMonth": 152,
+    "timeDay": 253,
+    "timeWeek": 202,
+    "timeMonth": 156,
     "timeYear": 216,
     "dailyMinutesDown": {}
   },
@@ -183,8 +183,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 200,
-    "timeDay": 228,
-    "timeWeek": 178,
+    "timeDay": 257,
+    "timeWeek": 190,
     "timeMonth": 165,
     "timeYear": 197,
     "dailyMinutesDown": {}
@@ -200,10 +200,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 172,
-    "timeDay": 229,
-    "timeWeek": 166,
-    "timeMonth": 146,
+    "time": 173,
+    "timeDay": 254,
+    "timeWeek": 179,
+    "timeMonth": 149,
     "timeYear": 179,
     "dailyMinutesDown": {}
   },
@@ -213,18 +213,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.fairdataihub.org.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "58.57%",
+    "uptime": "58.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "20.42%",
-    "time": 1578,
-    "timeDay": 19981,
-    "timeWeek": 16057,
-    "timeMonth": 18447,
-    "timeYear": 1927,
+    "time": 1638,
+    "timeDay": 19682,
+    "timeWeek": 19664,
+    "timeMonth": 18542,
+    "timeYear": 2009,
     "dailyMinutesDown": {
-      "2025-04-14": 68,
+      "2025-04-15": 67,
+      "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
@@ -521,8 +522,7 @@
       "2024-04-19": 1440,
       "2024-04-18": 1440,
       "2024-04-17": 1440,
-      "2024-04-16": 1440,
-      "2024-04-15": 1440
+      "2024-04-16": 1440
     }
   }
 ]
