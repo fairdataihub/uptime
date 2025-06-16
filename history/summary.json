@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 277,
-    "timeWeek": 242,
-    "timeMonth": 238,
+    "timeDay": 243,
+    "timeWeek": 238,
+    "timeMonth": 239,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2024-08-01": 6
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 237,
-    "timeWeek": 209,
-    "timeMonth": 199,
+    "time": 194,
+    "timeDay": 130,
+    "timeWeek": 187,
+    "timeMonth": 198,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2024-11-21": 17
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 225,
-    "timeDay": 291,
-    "timeWeek": 243,
-    "timeMonth": 226,
+    "timeDay": 158,
+    "timeWeek": 225,
+    "timeMonth": 225,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2025-01-29": 24
@@ -70,10 +70,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 264,
+    "time": 237,
+    "timeDay": 262,
     "timeWeek": 240,
-    "timeMonth": 235,
+    "timeMonth": 236,
     "timeYear": 236,
     "dailyMinutesDown": {}
   },
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 264,
-    "timeWeek": 263,
-    "timeMonth": 237,
-    "timeYear": 232,
+    "time": 228,
+    "timeDay": 260,
+    "timeWeek": 267,
+    "timeMonth": 238,
+    "timeYear": 233,
     "dailyMinutesDown": {
       "2025-04-20": 5,
       "2024-08-01": 14
@@ -110,10 +110,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 254,
-    "timeDay": 164,
-    "timeWeek": 209,
-    "timeMonth": 246,
-    "timeYear": 273,
+    "timeDay": 204,
+    "timeWeek": 210,
+    "timeMonth": 245,
+    "timeYear": 274,
     "dailyMinutesDown": {
       "2025-01-29": 23
     }
@@ -129,11 +129,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 257,
-    "timeWeek": 237,
-    "timeMonth": 246,
-    "timeYear": 224,
+    "time": 225,
+    "timeDay": 110,
+    "timeWeek": 219,
+    "timeMonth": 242,
+    "timeYear": 223,
     "dailyMinutesDown": {}
   },
   {
@@ -148,9 +148,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 125,
-    "timeDay": 214,
-    "timeWeek": 139,
-    "timeMonth": 182,
+    "timeDay": 138,
+    "timeWeek": 145,
+    "timeMonth": 184,
     "timeYear": 133,
     "dailyMinutesDown": {}
   },
@@ -166,10 +166,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 72,
-    "timeWeek": 247,
-    "timeMonth": 224,
-    "timeYear": 219,
+    "timeDay": 82,
+    "timeWeek": 218,
+    "timeMonth": 213,
+    "timeYear": 218,
     "dailyMinutesDown": {}
   },
   {
@@ -184,9 +184,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 87,
-    "timeWeek": 224,
-    "timeMonth": 199,
+    "timeDay": 282,
+    "timeWeek": 225,
+    "timeMonth": 200,
     "timeYear": 203,
     "dailyMinutesDown": {}
   },
@@ -202,10 +202,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 283,
-    "timeWeek": 175,
-    "timeMonth": 181,
-    "timeYear": 180,
+    "timeDay": 237,
+    "timeWeek": 199,
+    "timeMonth": 180,
+    "timeYear": 181,
     "dailyMinutesDown": {}
   },
   {
@@ -214,18 +214,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.fairdataihub.org.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "54.56%",
+    "uptime": "54.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "10.96%",
     "time": 4691,
-    "timeDay": 290,
-    "timeWeek": 14211,
-    "timeMonth": 18435,
-    "timeYear": 6426,
+    "timeDay": 127,
+    "timeWeek": 11384,
+    "timeMonth": 17801,
+    "timeYear": 6400,
     "dailyMinutesDown": {
-      "2025-06-15": 79,
+      "2025-06-16": 74,
+      "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
@@ -552,8 +553,7 @@
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
-      "2024-06-17": 1440,
-      "2024-06-16": 1440
+      "2024-06-17": 1440
     }
   }
 ]
