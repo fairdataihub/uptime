@@ -1,7 +1,7 @@
 url: https://umami.fairdataihub.org
-status: up
-code: 200
-responseTime: 219
-lastUpdated: 2025-10-19T23:17:35.410Z
+status: down
+code: 500
+responseTime: 3317
+lastUpdated: 2025-10-20T06:56:50.940Z
 startTime: 2022-12-22T23:31:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
