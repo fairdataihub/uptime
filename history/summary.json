@@ -263,7 +263,7 @@
     "timeMonth": 261,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2026-01-24": 52,
+      "2026-01-24": 74,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -585,7 +585,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.fairdataihub.org.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "43.78%",
+    "uptime": "43.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -596,7 +596,7 @@
     "timeMonth": 1008,
     "timeYear": 4921,
     "dailyMinutesDown": {
-      "2026-01-24": 52,
+      "2026-01-24": 74,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
